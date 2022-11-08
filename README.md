@@ -11,3 +11,7 @@
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
 
+```
+graalpy -m venv venv
+./venv/bin/pip install pystac==1.6.1
+```
